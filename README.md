@@ -121,6 +121,3 @@ chmod +x script_name.sh
 
 <div align="center">
 
-⭐ **Agar ye scripts useful lagein toh repo ko Star zaroor karo!** ⭐
-
-</div>
